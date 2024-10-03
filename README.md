@@ -1,1 +1,1 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Jacquard+24&size=30&duration=5155&pause=1000&color=FFFFFF&random=false&width=435&lines=Ol%C3%A1!+Me+chamo+Eduarda.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Jersey+25&pause=1000&color=FFFFFF&background=000000&width=435&lines=Ol%C3%A1!+Me+chamo+Eduarda+Biajo.+Seja+bem-vindo.)](https://git.io/typing-svg)
